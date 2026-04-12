@@ -58,7 +58,8 @@ dw--
 /** while **/
 
 /*{
-    let wN = 5
+
+let wN = 5
 let wsuma = 0
 let w = 1
 
